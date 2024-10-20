@@ -13,3 +13,8 @@ The current work on this project will likely lead to the development of addition
 ### Phase 1: Script and Framework Development
 
 The first phase involves creating scripts and a robust framework. This will enable the agents to manage most parts of text-based configuration, ensuring a more seamless and efficient user experience.
+
+## Changelog
+### 0.1
+- Initial project setup.
+- Running the first general agent.
